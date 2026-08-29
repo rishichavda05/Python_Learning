@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Data Engineering",
+        "path": "Data Engineering",
+        "sha": "aaa7e3a30c91c7e1de601380a0a7deceebd06f5e",
+        "size": 0,
+        "url": "https://api.github.com/repos/rishichavda05/Python_Learning/contents/Data%20Engineering?ref=main",
+        "html_url": "https://github.com/rishichavda05/Python_Learning/tree/main/Data%20Engineering",
+        "git_url": "https://api.github.com/repos/rishichavda05/Python_Learning/git/trees/aaa7e3a30c91c7e1de601380a0a7deceebd06f5e",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/rishichavda05/Python_Learning/contents/Data%20Engineering?ref=main",
+            "git": "https://api.github.com/repos/rishichavda05/Python_Learning/git/trees/aaa7e3a30c91c7e1de601380a0a7deceebd06f5e",
+            "html": "https://github.com/rishichavda05/Python_Learning/tree/main/Data%20Engineering"
+        }
+    },
+    {
+        "name": "Foundation",
+        "path": "Foundation",
+        "sha": "91eaa9d0e03c45a179a051765f9657822ffd561e",
+        "size": 0,
+        "url": "https://api.github.com/repos/rishichavda05/Python_Learning/contents/Foundation?ref=main",
+        "html_url": "https://github.com/rishichavda05/Python_Learning/tree/main/Foundation",
+        "git_url": "https://api.github.com/repos/rishichavda05/Python_Learning/git/trees/91eaa9d0e03c45a179a051765f9657822ffd561e",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/rishichavda05/Python_Learning/contents/Foundation?ref=main",
+            "git": "https://api.github.com/repos/rishichavda05/Python_Learning/git/trees/91eaa9d0e03c45a179a051765f9657822ffd561e",
+            "html": "https://github.com/rishichavda05/Python_Learning/tree/main/Foundation"
+        }
+    }
+]
