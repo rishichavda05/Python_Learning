@@ -1,0 +1,13 @@
+player_id,player_name,sport,country,age,matches,score
+1,Virat Kohli,Cricket,India,37,280,13800
+2,Rohit Sharma,Cricket,India,39,250,11000
+3,Joe Root,Cricket,England,35,180,12000
+4,Steve Smith,Cricket,Australia,37,190,10500
+5,Babar Azam,Cricket,Pakistan,31,150,7200
+6,LeBron James,Basketball,USA,41,1500,41000
+7,Stephen Curry,Basketball,USA,38,1000,26000
+8,Kevin Durant,Basketball,USA,37,1100,30000
+9,Lionel Messi,Football,Argentina,39,850,890
+10,Cristiano Ronaldo,Football,Portugal,41,1000,950
+11,Neymar,Football,Brazil,34,500,450
+12,Kylian Mbappe,Football,France,27,350,300
