@@ -1,0 +1,11 @@
+athlete_id,name,sport,age,score
+1,Virat Kohli,Cricket,35,95
+2,LeBron James,Basketball,39,91
+3,Usain Bolt,Running,37,98
+4,Michael Phelps,Swimming,38,94
+5,Novak Djokovic,Tennis,37,96
+6,Roger Federer,Tennis,42,89
+7,Invalid Athlete,Cricket,-5,80
+8,Simone Biles,Gymnastics,27,97
+9,Stephen Curry,Basketball,36,93
+10,Neeraj Chopra,Running,26,95
