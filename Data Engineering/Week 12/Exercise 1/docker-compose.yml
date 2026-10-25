@@ -1,0 +1,12 @@
+services:
+
+  pipeline:
+    build: .
+    container_name: deploy_pipeline
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./data:/app/data
+      - ./output:/app/output

@@ -1,0 +1,6 @@
+order_id,customer,product,quantity,price
+1,Alice,Laptop,1,800
+2,Bob,Mouse,2,25
+3,Charlie,Keyboard,1,50
+4,David,Monitor,2,200
+5,Eva,Headphones,3,75
